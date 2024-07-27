@@ -34,7 +34,7 @@ List the required libraries and their versions, for example:
 ![image](https://github.com/user-attachments/assets/588417a5-1568-4617-9f53-adb13a58cbda)
 ![image](https://github.com/user-attachments/assets/ee65d296-b779-418a-954e-f03fd0387470)
 
-NOTE: The output screenshot includes only the rewards of few a episodes.
+NOTE: The output screenshot includes only the rewards of few a episodes but it is quite evident from the screenshots that, with each episode, the goal of the agent is to maximize the reward.
 
 
 
